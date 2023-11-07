@@ -1,0 +1,7 @@
+write a program that takes source program of c language via file handling and 
+counts number of 
+lines, 
+words, 
+characters  
+keywords 
+present in the source program and displays them.
